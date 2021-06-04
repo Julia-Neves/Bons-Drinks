@@ -3,9 +3,8 @@
 ## 📌 Índice
 <!--ts-->
    * [Descrição](###Descrição)
-   * [Pre Requisitos](###Pré-requisitos)
+   * [Pré-requisitos](###Pré-requisitos)
    * [Instalação](###instalacao)
-   * [Como usar](###como-usar)
    * [Tecnologias](#Tecnologias)
 <!--te-->
 
@@ -36,10 +35,6 @@ $ npm install
 $ npm run dev
 
 # O servidor inciará na porta:3000 - acesse <http://localhost:3000>
-
-# Como Usar
-## 📦 Acessar a API pelo navegador
-Caso não for rodar o projeto em sua máquina, [clique aqui](link netlifly) para acessar a aplicação.
 
 
 ### 🛠 Tecnologias

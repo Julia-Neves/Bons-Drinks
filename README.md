@@ -1,4 +1,6 @@
+<h1 align="center">
 # Bons Drinks
+</h1>
 
 <h4 align="center"> 
 	🚧  Bons Drinks 🚀 Projeto em construção...  🚧
@@ -12,14 +14,17 @@
    * [Tecnologias](#Tecnologias)
 <!--te-->
 
+
 ### 🔖 Descrição
 <p align="center">🚀 Bons Drinks é um site para consultas de bebidas.</p>
+
 
 ### 📋 Pré-requisitos
 
 Antes de começar, Para você poder roda este projeto em sua máquina, você vai precisar ter instalado as seguintes ferramentas:
 [Git](https://git-scm.com). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
 
 ### 🔧 Instalação
 

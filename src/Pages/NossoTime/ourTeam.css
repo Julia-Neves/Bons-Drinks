@@ -1,0 +1,35 @@
+.bigDiv {
+    display: grid;
+    grid-template-areas:
+    "titulo titulo titulo titulo"
+    "imgIntegrante1 integrante1 imgIntegrante2 integrante2"
+    "imgIntegrante3 integrante3 imgIntegrante4 integrante4";
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    width: 80%;
+    grid-gap: 40px;
+    gap: 40px;
+    margin: 15px auto 80px;
+}
+
+.title {
+    grid-area: titulo;
+    text-align: center;
+    color: black;
+    font-family: sans-serif;
+}
+
+.img {
+    width: 250px;
+    border-radius: 20%;
+}
+
+.img:hover {
+    width: 220px;
+    transition: 0.2s ease-in-out;
+}
+
+.textIntegrante {
+    font-family: "Open Sans";
+    color: #101010;
+}
+

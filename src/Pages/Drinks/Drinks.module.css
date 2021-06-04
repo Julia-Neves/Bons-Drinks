@@ -1,0 +1,27 @@
+.conteudo {
+    justify-content: center;
+    gap: 20px; 
+  }
+
+  .tituloConteudo {
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+    justify-content: center;
+  }
+  
+  .navConteudo {
+    display: flex;
+  }
+
+  .btnNav {
+    text-decoration: none;
+    background: black;
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    border-radius: 5px;
+    width: 200px;
+    margin: 10px;
+    padding: 15px 10px;
+  }

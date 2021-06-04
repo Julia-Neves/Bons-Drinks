@@ -1,0 +1,22 @@
+.h1animation {
+  transition: 0.3s ease-in;
+  font-family: "Bilbo swash Caps", cursive;
+  color: green;
+  text-align: center;
+  font-size: 70px;
+  animation-name: zoom;
+  animation-duration: 1000ms; 
+}
+
+@keyframes zoom {
+  from {font-size: 0px;}
+  to {font-size: 80px;}
+}
+
+.main {
+  grid-area: drinkCard;
+  background-image: url(../../img/photo-1494962227006-107baac595eb.jpg);
+  background-position: center;
+  background-size: cover;
+  
+}

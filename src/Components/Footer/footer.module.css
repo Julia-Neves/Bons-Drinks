@@ -1,0 +1,15 @@
+.footer{
+    text-align: center;
+    width: 100%;
+    font-size: 10px;
+    background-color: black;
+    grid-area: footer;
+  }
+  
+  .footerText{
+    color: white;
+  }
+  
+  .linkGithub{
+    color: white;
+  }

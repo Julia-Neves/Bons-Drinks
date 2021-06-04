@@ -1,0 +1,39 @@
+.divContato {
+    grid-area: drinkCard;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 40px;
+    padding: 20px 20px;
+    text-align: center;
+    max-width: 600px;
+}
+
+.conteudo {
+    display: flex;
+    justify-content: center;
+    max-width: 600px;
+}
+
+.btn {
+    border-radius: 8%;
+    height: 35px;
+    width: 120px;
+    background-color: gray
+}
+
+.form {
+    grid-area: form;
+    margin: 2rem;
+}
+
+.formTitle {
+    text-align: center;
+}
+
+.forImg {
+    width: 100px;
+    border-radius: 50%;
+}

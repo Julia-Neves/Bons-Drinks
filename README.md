@@ -1,5 +1,9 @@
 # Bons Drinks
 
+<h4 align="center"> 
+	🚧  Bons Drinks 🚀 Projeto em construção...  🚧
+</h4>
+
 ## 📌 Índice
 <!--ts-->
    * [Descrição](###Descrição)
@@ -46,6 +50,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Css Grid](https://www.w3schools.com/css/css_grid.asp)
 
 
-<h4 align="center"> 
-	🚧  Bons Drinks 🚀 Projeto em construção...  🚧
-</h4>
+
